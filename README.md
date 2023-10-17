@@ -12,3 +12,6 @@ The course consists of the following lectures:
 - L8 - Intro to recommender systems
 - L9 - Building and evaluating recommender systems (part I)
 - L10 - Building and evaluating recommender systems (part II)
+
+
+* NB two files are missing from the Data-folder because of size *
