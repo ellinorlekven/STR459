@@ -1,0 +1,7 @@
+<html>
+  <head>
+   <title>
+    Example page
+   </title>
+  </head>
+  <body>
