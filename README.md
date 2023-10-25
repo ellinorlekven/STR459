@@ -16,4 +16,5 @@ The course consists of the following lectures:
 
 *NB! Two files are missing from the Data-folder because of size*
 - 'Data/movie_dataset.csv'
+- 'Data/movies_metadata.csv'
 
