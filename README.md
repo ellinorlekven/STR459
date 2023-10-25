@@ -14,4 +14,6 @@ The course consists of the following lectures:
 - L10 - Building and evaluating recommender systems (part II)
 
 
-*NB two files are missing from the Data-folder because of size*
+*NB! Two files are missing from the Data-folder because of size*
+- 'Data/movie_dataset.csv'
+
